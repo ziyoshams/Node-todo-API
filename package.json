@@ -17,6 +17,7 @@
     "body-parser": "^1.17.2",
     "expect": "^21.0.0",
     "express": "^4.15.4",
+    "lodash": "^4.17.4",
     "mongodb": "^2.2.5",
     "mongoose": "^4.11.10",
     "supertest": "^3.0.0"
